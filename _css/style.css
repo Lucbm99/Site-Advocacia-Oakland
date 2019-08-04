@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif, Verdana;
+}
+img#imagemLogo{
+    width: 200px;
+    height: 100px;
+    margin-left: 40px;
+}
+/*Menu Horizontal*/
+.navbar-light .navbar-nav .nav-link{
+    margin-left: 45px;
+    padding: 7px;
+    margin-top: 65px;
+    font-size: 18px;
+}
+.frase1{
+    font-size: 21px;
+    font-family: sans-serif, Arial, Verdana;    
+    color:#000;
+    text-align: center;
+    padding: 20px;
+}
+.card-columns .card {
+    margin-top: 20px;
+    height: 240px;
+}
+.dizeres{
+    margin-top: 10px;
+    padding: 20px;
+    background-color: #BDBDBD;
+    height: 400px;
+}
+#subir{
+    position: fixed;
+    padding: 20px;
+    border-radius: 5px;
+    height: 65px;
+    bottom:0px;
+    left:0px;
+    cursor: pointer;
+}
+.rodape{
+    background-color: #000000;
+    text-align: center;
+    font-size: 14px;
+    font-family: sans-serif, Verdana;
+    margin-top: 40px;
+    height: 50px;
+    color: #ffffff;
+    padding: 10px;
+}
+@media (min-width: 320px) and (max-width: 480px){
+    h4{
+        padding-top: 400px;
+        text-align: center;
+    }
+    img#imagemLogo{
+        margin-left: 0px;
+    }
+    .bg-dark{
+        width: 100%;
+    }
+    .form-control{
+        margin-right: 120px;
+    }
+    .card-columns .card{
+        height: 360px;
+    }
+    .dizeres{
+        height: auto;
+        width: 100%;
+    }
+    .rodape{
+        width: 100%;
+    }
+}
+
+@media (min-width: 461px) and (max-width: 768px){
+    .frase1 {
+        font-family: sans-serif, Arial, Verdana;
+        font-size: 40px;
+        margin: 0;
+        text-align: center;
+    }
+    .dizeres{
+        height: 600px;
+    }
+    img#subir{
+        height: 60px;
+    }
+    .card-columns .card{
+        height: 425px;
+    }
+    .rodape {
+        height: 60px;
+        margin-top: 50px;   
+        color: #fff;
+        padding: 10px;
+        font-size: 20px;
+    }
+}
+@media (min-width: 769px) and (max-width: 1024px){
+    .frase1 {
+        font-family: sans-serif, Arial, Verdana;
+        font-size: 40px;
+        margin: 0;
+        text-align: center;
+    }
+    .dizeres{
+        height: 600px;
+        width: 1024px;
+    }   
+    img#subir{
+        height: 60px;
+    }
+    .card-columns .card{
+        height: 425px;
+    }
+    .rodape {
+        height: 60px;
+        font-size: 20px;
+        margin-top: 50px;   
+        width: 1024px;
+    }
+}
+
+
+
+
+
+
+
+
+
