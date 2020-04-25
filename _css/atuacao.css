@@ -37,7 +37,7 @@ p.textoApresentacao{
     border-radius: 5px;
     height: 65px;
     bottom:0px;
-    left:0px;
+    right:0px;
     cursor: pointer;
 }
 .rodape{
