@@ -41,7 +41,7 @@ Ao exibir o status abaixo, indica que o processo foi feito corretamente:
 Os arquivos estarão na pasta recém criada: 
 ![image](https://user-images.githubusercontent.com/45500959/111052288-5db35180-8438-11eb-8b07-10040a65b795.png)
 
-E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o site da Cafeteria. 
+E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o site da Advocacia. 
 ![image](https://user-images.githubusercontent.com/45500959/111052298-69067d00-8438-11eb-8731-80d5704a4504.png)
 
 
