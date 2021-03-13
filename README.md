@@ -29,6 +29,7 @@ Depois disso, você irá clicar com o botão direito em sua pasta recém-criada,
 ![image](https://user-images.githubusercontent.com/45500959/111051405-84ba5500-8431-11eb-9164-789faddb950f.png)
 
 Ao abrir o terminal, é necessário digitar a URL recém-copiada do GitHub, acompanhada do comando git clone, conforme exemplo: 
+
 ![image](https://user-images.githubusercontent.com/45500959/111052271-4ecc9f00-8438-11eb-9358-11e19109e1d6.png)
 
 Após isso, teclar ENTER.
