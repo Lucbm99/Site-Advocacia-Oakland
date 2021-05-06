@@ -10,7 +10,9 @@ Para isso, você irá precisar basicamente ter um editor de código em sua máqu
 Links úteis: 
 
 VS Code: https://code.visualstudio.com/
+
 Git: https://git-scm.com/
+
 Sublime Text: https://www.sublimetext.com/
 
 ### 🔧 Como rodar o projeto? 
@@ -48,6 +50,7 @@ E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o si
 ## 📦 Status do Site
 
 🚧  Finalizado 🚧
+
 📦 Link de acesso: https://lucasbmarchiori.com.br/advocacia-oakland/ 📦
 
 ## 🛠️ Feito com
