@@ -51,7 +51,7 @@ E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o si
 
 🚧  Finalizado 🚧
 
-📦 Link de acesso: https://site-advocacia-oakland.vercel.app/index.html 📦
+📦 Link de acesso: https://site-advocacia-oakland.vercel.app/ 📦
 
 ## 🛠️ Feito com
 * [Bootstrap](https://getbootstrap.com/) - Framework de estilos utilizado;
